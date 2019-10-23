@@ -1,1 +1,3 @@
-print("git pika das galaxias")
+print("say may name")
+what = input()
+print(what)
